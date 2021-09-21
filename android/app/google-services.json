@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051864781217",
+    "project_id": "flutchat-c275a",
+    "storage_bucket": "flutchat-c275a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051864781217:android:b7adf8a533f71307f77be0",
+        "android_client_info": {
+          "package_name": "com.example.flutchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051864781217-j4kbjhce0dmtuovism7ls3q67v1c0k2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllh6Dc_1uaS9bavT4m-EldBufVrDwy1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051864781217-j4kbjhce0dmtuovism7ls3q67v1c0k2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
